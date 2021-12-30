@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1640885538 source:d:\Документы\Мои проекты\volsash economic simulator\main.cpp
+	<tchar.h>
+	<windows.h>
+	<commctrl.h>
+	"tab.h"
+
+1640884955 source:d:\Документы\Мои проекты\volsash economic simulator\tab.cpp
+	"tab.h"
+	<windows.h>
+	<iostream>
+
+1640884595 d:\Документы\Мои проекты\volsash economic simulator\tab.h
+
+1640878916 source:d:\Документы\Мои проекты\volsash economic simulator\tab.h
+
